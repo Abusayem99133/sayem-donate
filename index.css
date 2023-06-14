@@ -61,25 +61,44 @@ h1 {
 }
 
 #food-family {
+    text-align: left;
     background-color: #ddf0f7;
     background-image: url(./food.png);
     background-repeat: no-repeat;
     background-position: inherit;
-    padding: 60px;
+    margin-right: 20px;
+    padding: 40px;
 }
 
 #shelter-family {
+    text-align: left;
     background-color: #f9e8f4;
     background-image: url(./shelter.png);
     background-repeat: no-repeat;
     background-position: initial;
-    padding: 50px;
+    margin-right: 20px;
+    padding: 40px;
 }
 
 #education-child {
+    text-align: left;
     background-color: #fdedba;
     background-image: url(./Frame-1.png);
     background-repeat: no-repeat;
     background-position: inherit;
-    padding: 50px;
+    margin-right: 20px;
+    padding: 40px;
+}
+
+.new-layout {
+    display: flex;
+    padding: 60px;
+}
+
+#donate {
+    padding:
+}
+
+.new-layout img {
+    width: 120%;
 }
