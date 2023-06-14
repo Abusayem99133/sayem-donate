@@ -2,3 +2,28 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+
+h1 {
+    font-size: 50px;
+}
+
+.headers-today {
+    text-align: center;
+    background-image: url(./donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 60px;
+    color: white;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, salmon, orange);
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: white;
+    font-weight: 700;
+
+}
