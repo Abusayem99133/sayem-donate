@@ -53,3 +53,33 @@ h1 {
 #margin {
     margin-top: 50px;
 }
+
+.flexible-container {
+    display: flex;
+    margin: 40px;
+    margin-left: 40px;
+}
+
+#food-family {
+    background-color: #ddf0f7;
+    background-image: url(./food.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    padding: 60px;
+}
+
+#shelter-family {
+    background-color: #f9e8f4;
+    background-image: url(./shelter.png);
+    background-repeat: no-repeat;
+    background-position: initial;
+    padding: 50px;
+}
+
+#education-child {
+    background-color: #fdedba;
+    background-image: url(./Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    padding: 50px;
+}
