@@ -92,13 +92,37 @@ h1 {
 
 .new-layout {
     display: flex;
-    padding: 60px;
-}
-
-#donate {
-    padding:
+    padding: 50px;
 }
 
 .new-layout img {
     width: 120%;
+}
+
+.new-session {
+    display: flex;
+    margin-right: 50px;
+    padding: 50px;
+}
+
+.new-session img {
+    width: 110%;
+
+}
+
+#diffrent-tag {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #fdedba;
+    margin: 0px;
+    padding: 40px;
+}
+
+.last-chapter {
+    text-align: center;
+    background-color: rgb(146, 169, 175);
+}
+
+#need {
+    color: #e05f14;
 }
